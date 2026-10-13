@@ -1,0 +1,29 @@
+Recommendations:
+
+1. Improve Design and layout issues, topography, color scheme, spacing, image size consistency
+ it is important that your fonts, typography, logos, color schemes, and images are consistent across all your pages, and that they stay consistent beyond your website too – from email and social media to business cards and brochures. 
+
+2. Improve menu navigation
+2. Install a new wp theme or create a custom
+
+Focus on brand consistency 
+
+
+Your bounce rate is high
+You’ve got technical issues
+Conversions are down
+It’s old 
+
+
+Speed optimization
+1. Implement Short Pixel plugin for Lossy Compression, compress all existing images without image degragation.
+2. Implement Cache plugin and test compatibility
+3. Implement CSS minification
+4. Review Site Speed and implement fixes
+5. Implement Lazy Load plugin
+6. Implement AMP - Google Mobile optimisation
+7. Implement share this plugin
+8. Implement Open Graph Plugin required Open Graph tags missing. The four required Open Graph tags for every page are og:title, og:type, og:image, and og:url.
+9. Implement SEO YOAST plugin and set up
+10. Run the site via Google Mobile and Speed checker and implement fixes
+11. Ensure site is optimized for fast load time
